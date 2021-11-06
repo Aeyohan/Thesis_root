@@ -1,3 +1,6 @@
 [submodule "embedded/thesis"]
 	path = embedded/thesis
 	url = git@github.com:Aeyohan/thesis.git
+[submodule "Thesis_TensorFlow"]
+	path = Thesis_TensorFlow
+	url = git@github.com:Aeyohan/Thesis_TensorFlow.git
