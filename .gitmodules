@@ -1,0 +1,3 @@
+[submodule "embedded/thesis"]
+	path = embedded/thesis
+	url = git@github.com:Aeyohan/thesis.git
